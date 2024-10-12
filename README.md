@@ -1,0 +1,2 @@
+# lottary_app
+ 
